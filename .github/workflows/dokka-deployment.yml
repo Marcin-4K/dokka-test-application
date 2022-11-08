@@ -22,6 +22,5 @@ jobs:
       - name: Deploy to Github Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           BRANCH: gh-pages-html
           FOLDER: app/build/dokka/html/
