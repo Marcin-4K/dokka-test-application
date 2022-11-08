@@ -1,0 +1,21 @@
+name: Dokka Deployment
+on: 
+  push:
+  
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Branch
+        uses: actions/checkout@v3
+
+      - name: Create DokkaHtml
+        run: ./gradlew dokkaHtml
+
+      - name: Deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages-html
+          FOLDER: ../app/build/dokka/html/
