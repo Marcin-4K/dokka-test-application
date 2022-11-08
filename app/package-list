@@ -1,0 +1,70 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.example.dokkatestapplication.model////PointingToDeclaration/app/com.example.dokkatestapplication.model/index.md
+$dokka.location:com.example.dokkatestapplication.model/Car///PointingToDeclaration/app/com.example.dokkatestapplication.model/-car/index.md
+$dokka.location:com.example.dokkatestapplication.model/Car/Car/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/app/com.example.dokkatestapplication.model/-car/-car.md
+$dokka.location:com.example.dokkatestapplication.model/Car/brand/#/PointingToDeclaration/app/com.example.dokkatestapplication.model/-car/brand.md
+$dokka.location:com.example.dokkatestapplication.model/Car/color/#/PointingToDeclaration/app/com.example.dokkatestapplication.model/-car/color.md
+$dokka.location:com.example.dokkatestapplication.model/Car/model/#/PointingToDeclaration/app/com.example.dokkatestapplication.model/-car/model.md
+$dokka.location:com.example.dokkatestapplication.units////PointingToDeclaration/app/com.example.dokkatestapplication.units/index.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion///PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/index.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/ZERO/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/-z-e-r-o.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/add/#com.example.dokkatestapplication.units.Duration#com.example.dokkatestapplication.units.Duration/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/add.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/fromHours/#kotlin.Long/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/from-hours.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/fromMilliseconds/#kotlin.Long/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/from-milliseconds.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/fromMinutes/#kotlin.Long/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/from-minutes.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/fromSeconds/#kotlin.Long/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/from-seconds.md
+$dokka.location:com.example.dokkatestapplication.units/Duration.Companion/subtract/#com.example.dokkatestapplication.units.Duration#com.example.dokkatestapplication.units.Duration/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/-companion/subtract.md
+$dokka.location:com.example.dokkatestapplication.units/Duration///PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/index.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/compareTo/#com.example.dokkatestapplication.units.Duration/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/compare-to.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/equals/#kotlin.Any?/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/equals.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/hashCode/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/hash-code.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/hours/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/hours.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/milliseconds/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/milliseconds.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/minus/#com.example.dokkatestapplication.units.Duration/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/minus.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/minutes/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/minutes.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/plus/#com.example.dokkatestapplication.units.Duration/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/plus.md
+$dokka.location:com.example.dokkatestapplication.units/Duration/seconds/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-duration/seconds.md
+$dokka.location:com.example.dokkatestapplication.units/Length.Companion///PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/-companion/index.md
+$dokka.location:com.example.dokkatestapplication.units/Length.Companion/ZERO/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/-companion/-z-e-r-o.md
+$dokka.location:com.example.dokkatestapplication.units/Length.Companion/add/#com.example.dokkatestapplication.units.Length#com.example.dokkatestapplication.units.Length/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/-companion/add.md
+$dokka.location:com.example.dokkatestapplication.units/Length.Companion/fromKilometers/#kotlin.Double/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/-companion/from-kilometers.md
+$dokka.location:com.example.dokkatestapplication.units/Length.Companion/fromMeters/#kotlin.Double/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/-companion/from-meters.md
+$dokka.location:com.example.dokkatestapplication.units/Length.Companion/subtract/#com.example.dokkatestapplication.units.Length#com.example.dokkatestapplication.units.Length/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/-companion/subtract.md
+$dokka.location:com.example.dokkatestapplication.units/Length///PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/index.md
+$dokka.location:com.example.dokkatestapplication.units/Length/compareTo/#com.example.dokkatestapplication.units.Length/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/compare-to.md
+$dokka.location:com.example.dokkatestapplication.units/Length/feet/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/feet.md
+$dokka.location:com.example.dokkatestapplication.units/Length/kilometers/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/kilometers.md
+$dokka.location:com.example.dokkatestapplication.units/Length/meters/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/meters.md
+$dokka.location:com.example.dokkatestapplication.units/Length/miles/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/miles.md
+$dokka.location:com.example.dokkatestapplication.units/Length/minus/#com.example.dokkatestapplication.units.Length/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/minus.md
+$dokka.location:com.example.dokkatestapplication.units/Length/plus/#com.example.dokkatestapplication.units.Length/PointingToDeclaration/app/com.example.dokkatestapplication.units/-length/plus.md
+$dokka.location:com.example.dokkatestapplication.units/Speed.Companion///PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/-companion/index.md
+$dokka.location:com.example.dokkatestapplication.units/Speed.Companion/KMH_TO_MS/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/-companion/-k-m-h_-t-o_-m-s.md
+$dokka.location:com.example.dokkatestapplication.units/Speed.Companion/MS_TO_MPH/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/-companion/-m-s_-t-o_-m-p-h.md
+$dokka.location:com.example.dokkatestapplication.units/Speed.Companion/ZERO/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/-companion/-z-e-r-o.md
+$dokka.location:com.example.dokkatestapplication.units/Speed.Companion/fromKmh/#kotlin.Double/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/-companion/from-kmh.md
+$dokka.location:com.example.dokkatestapplication.units/Speed.Companion/fromMs/#kotlin.Double/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/-companion/from-ms.md
+$dokka.location:com.example.dokkatestapplication.units/Speed///PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/index.md
+$dokka.location:com.example.dokkatestapplication.units/Speed/compareTo/#com.example.dokkatestapplication.units.Speed/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/compare-to.md
+$dokka.location:com.example.dokkatestapplication.units/Speed/equals/#kotlin.Any?/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/equals.md
+$dokka.location:com.example.dokkatestapplication.units/Speed/hashCode/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/hash-code.md
+$dokka.location:com.example.dokkatestapplication.units/Speed/kmh/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/kmh.md
+$dokka.location:com.example.dokkatestapplication.units/Speed/mph/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/mph.md
+$dokka.location:com.example.dokkatestapplication.units/Speed/ms/#/PointingToDeclaration/app/com.example.dokkatestapplication.units/-speed/ms.md
+$dokka.location:com.example.dokkatestapplication.uuid////PointingToDeclaration/app/com.example.dokkatestapplication.uuid/index.md
+$dokka.location:com.example.dokkatestapplication.uuid/UUID///PointingToDeclaration/app/com.example.dokkatestapplication.uuid/-u-u-i-d/index.md
+$dokka.location:com.example.dokkatestapplication.uuid/UUID/newUUID/#/PointingToDeclaration/app/com.example.dokkatestapplication.uuid/-u-u-i-d/new-u-u-i-d.md
+$dokka.location:com.example.dokkatestapplication////PointingToDeclaration/app/com.example.dokkatestapplication/index.md
+$dokka.location:com.example.dokkatestapplication/LatLng.Companion///PointingToDeclaration/app/com.example.dokkatestapplication/-lat-lng/-companion/index.md
+$dokka.location:com.example.dokkatestapplication/LatLng///PointingToDeclaration/app/com.example.dokkatestapplication/-lat-lng/index.md
+$dokka.location:com.example.dokkatestapplication/LatLng/LatLng/#kotlin.Double#kotlin.Double/PointingToDeclaration/app/com.example.dokkatestapplication/-lat-lng/-lat-lng.md
+$dokka.location:com.example.dokkatestapplication/LatLng/latitude/#/PointingToDeclaration/app/com.example.dokkatestapplication/-lat-lng/latitude.md
+$dokka.location:com.example.dokkatestapplication/LatLng/longitude/#/PointingToDeclaration/app/com.example.dokkatestapplication/-lat-lng/longitude.md
+$dokka.location:com.example.dokkatestapplication/MainActivity///PointingToDeclaration/app/com.example.dokkatestapplication/-main-activity/index.md
+$dokka.location:com.example.dokkatestapplication/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.dokkatestapplication/-main-activity/-main-activity.md
+com.example.dokkatestapplication
+com.example.dokkatestapplication.model
+com.example.dokkatestapplication.units
+com.example.dokkatestapplication.uuid
+
