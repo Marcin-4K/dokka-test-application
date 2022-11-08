@@ -1,6 +1,6 @@
 name: Dokka Deployment Gfm
 on: 
-  push:
+  pull_request:
   
 jobs:
   deploy:
