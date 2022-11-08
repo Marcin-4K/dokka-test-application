@@ -1,0 +1,20 @@
+name: Dokka Deployment Gfm
+on: 
+  push:
+  
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Branch
+        uses: actions/checkout@v3
+
+      - name: Create DokkaGfm
+        run: ./gradlew dokkaGfm
+        
+      - name: Deploy to Github Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          BRANCH: gh-pages-gfm
+          FOLDER: app/build/dokka/gfm/
