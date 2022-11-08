@@ -24,4 +24,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           BRANCH: gh-pages-html
-          FOLDER: ../app/build/dokka/html/
+          FOLDER: app/build/dokka/html/
