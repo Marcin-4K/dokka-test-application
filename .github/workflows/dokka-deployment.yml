@@ -1,4 +1,4 @@
-name: Dokka Deployment
+name: Dokka Deployment Html
 on: 
   push:
   
@@ -12,14 +12,8 @@ jobs:
 
       - name: Create DokkaHtml
         run: ./gradlew dokkaHtml
-        
-      - name: Print Current Folder
-        run: pwd
-        
-      - name: Print ls
-        run: ls -al
 
-      - name: Deploy to Github Pages
+      - name: Deploy Documentation
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           BRANCH: gh-pages-html
