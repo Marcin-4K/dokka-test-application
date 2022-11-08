@@ -16,5 +16,7 @@ jobs:
       - name: Deploy Documentation
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          BRANCH: gh-pages-html
+          TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY-NAME: Marcin-Graphmasters/dokka-test-documentation
+          BRANCH: documentation-from-remote-branch
           FOLDER: app/build/dokka/html/
